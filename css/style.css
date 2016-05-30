@@ -188,9 +188,9 @@ section h2{
 	margin-right: auto;
 }
 .retraso{
-	-webkit-animation-delay: 1s;
-	-moz-animation-delay: 1s;
-	animation-delay: 1s;
+	-webkit-animation-delay: .8s;
+	-moz-animation-delay: .8s;
+	animation-delay: .8s;
 }
 .retraso-2{
 	-webkit-animation-delay: 1500ms;
