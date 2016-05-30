@@ -33,7 +33,7 @@ header nav a{
 	padding: 10px 15px;
 }
 header nav a.active{
-	background: #fed136;
+	background: #FF643B;
 	border-radius: 3px;
 
 }
@@ -50,7 +50,7 @@ header nav a.active{
 }
 #home .divider{
 	width: 80px;
-	border-top: 5px solid #fed136;
+	border-top: 5px solid #FF643B;
 	margin: 0 auto;
 	border-radius: 3px;
 }
@@ -80,7 +80,7 @@ header nav a.active{
 
 }
 #home .social a:hover{
-	background-color: #fed136;
+	background-color: #FF643B;
 }
 #servicios .box{
 	display: inline-block;
@@ -141,9 +141,9 @@ header nav a.active{
 
 }
 #contacto button{
-	background-color: #fed136;
+	background-color: #FF643B;
 	padding: 20px 40px;
-	border-color: #fed136;
+	border-color: #FF643B;
 	border-radius: 3px;
 	color:white;
 	font-size: 18px;
@@ -186,5 +186,15 @@ section h2{
 	width: 992px;
 	margin-left: auto;
 	margin-right: auto;
+}
+.retraso{
+	-webkit-animation-delay: 1s;
+	-moz-animation-delay: 1s;
+	animation-delay: 1s;
+}
+.retraso-2{
+	-webkit-animation-delay: 1500ms;
+	-moz-animation-delay: 1500ms;
+	animation-delay: 1500ms;
 }
 
